@@ -12,7 +12,7 @@ date_default_timezone_set('Asia/Bangkok');
 /** Class Database สำหรับติดต่อฐานข้อมูล */
 class Database {
     private $host = "localhost";
-    private $dbname = "shopcart";
+    private $dbname = "shopping_cart";
     private $username = "root";
     private $password = "";
     private $conn = null;
