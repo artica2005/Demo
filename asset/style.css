@@ -1,0 +1,20 @@
+@import url("font.css");
+
+body{
+  font-family: 'LINE Seed Sans TH', sans-serif;
+}
+.fw100{
+  font-weight: 100;
+}
+.fw400{
+  font-weight: 400;
+}
+.fw700{
+  font-weight: 700;
+}
+.fw800{
+  font-weight: 800;
+}
+.fw900{
+  font-weight: 900;
+}
