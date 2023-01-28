@@ -41,7 +41,7 @@
                         text: 'ลบสินค้าชิ้นนี้ออกจากรายการแล้ว',
                         icon: 'success',
                         showConfirmButton: false,
-                        timer: 2000
+                        timer: 1000
                     })
                     window.history.replaceState(null, null, window.location.pathname)
                 </script>";
